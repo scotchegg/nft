@@ -1,0 +1,24 @@
+{
+  "tokens": [
+    {
+      "id": 0,
+      "external_url": "https://scotche.gg/nft/pete1.pdf",
+      "name": "Petley Special One",
+      "description": "The absolute god and creator of Petley coins.",
+      "image": "https://scotche.gg/nft/pete1.jpg",
+      "looks": 7,
+      "brains":9,
+      "humour":10
+    },
+    {
+      "id": 1,
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "name": "Petley Special Two",
+      "description": "The 2nd absolute god of Petley coins.",
+      "image": "https://scotche.gg/nft/pete2.pdf",
+      "looks": 6,
+      "brains":2,
+      "humour":11
+    }
+  ]
+}
