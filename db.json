@@ -5,6 +5,7 @@
       "name": "Petley Special One",
       "description": "The absolute god and creator of Petley coins.",
       "image": "https://scotche.gg/nft/pete1.jpg",
+      "external_url": "https://scotche.gg/nft/pete1.pdf",
       "attributes": [
         {
           "trait_type": "Eyes",
@@ -50,6 +51,7 @@
       "name": "Petley Special Two",
       "description": "The good man of Petley coins.",
       "image": "https://scotche.gg/nft/pete2.jpg",
+      "external_url": "https://scotche.gg/nft/pete2.pdf",
       "attributes": [
         {
           "trait_type": "Eyes",
