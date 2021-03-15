@@ -2,7 +2,6 @@
   "tokens": [
     {
       "id": 0,
-      "external_url": "https://scotche.gg/nft/pete1.pdf",
       "name": "Petley Special One",
       "description": "The absolute god and creator of Petley coins.",
       "image": "https://scotche.gg/nft/pete1.jpg",
@@ -48,13 +47,48 @@
     },
     {
       "id": 1,
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "name": "Petley Special Two",
-      "description": "The 2nd absolute god of Petley coins.",
-      "image": "https://scotche.gg/nft/pete2.pdf",
-      "looks": 6,
-      "brains":2,
-      "humour":11
+      "description": "The good man of Petley coins.",
+      "image": "https://scotche.gg/nft/pete2.jpg",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": "Average"
+        },
+        {
+          "trait_type": "Humour",
+          "value": "A what?"
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Titanic",
+          "value": 40
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Cooking",
+          "value": 1
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Stamina Increase",
+          "value": 1
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Speed Increase",
+          "value": 2
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        }
+      ]
     }
   ]
 }
