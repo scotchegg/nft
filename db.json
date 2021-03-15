@@ -6,9 +6,45 @@
       "name": "Petley Special One",
       "description": "The absolute god and creator of Petley coins.",
       "image": "https://scotche.gg/nft/pete1.jpg",
-      "looks": 7,
-      "brains":9,
-      "humour":10
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Intelligence",
+          "value": "Genius"
+        },
+        {
+          "trait_type": "Humour",
+          "value": "Meh"
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Luckiness",
+          "value": 40
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Cooking",
+          "value": 20
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Stamina Increase",
+          "value": 10
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Speed Increase",
+          "value": 10
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        }
+      ]
     },
     {
       "id": 1,
